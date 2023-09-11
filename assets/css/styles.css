@@ -6,3 +6,9 @@
     box-sizing: border-box;
     font-family: 'Inter', sans-serif;
 }
+
+:root {
+    --font-family-principal: 'Inter', sans-serif;
+    --cor-fundo: linear-gradient(63deg, #040006 -2.05%, #62005F 112.81%);
+    
+}
