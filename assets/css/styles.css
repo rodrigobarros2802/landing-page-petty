@@ -9,6 +9,7 @@
 
 :root {
     --font-family-principal: 'Inter', sans-serif;    
+    --branco: #fff;
 }
 
 body {
@@ -20,4 +21,12 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+
+header .logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--branco);
+    gap: 10px;
 }
