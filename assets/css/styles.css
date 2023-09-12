@@ -14,3 +14,10 @@
 body {
     background-color: #62005f;
 }
+
+header {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
