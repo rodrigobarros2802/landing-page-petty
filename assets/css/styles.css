@@ -21,6 +21,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    width: 100%;
 }
 
 header .logo {
@@ -32,4 +33,12 @@ header .logo {
     text-decoration: none;
     font-size: 24px;
     font-weight: 700;
+}
+
+header .menu {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 70px;
 }
