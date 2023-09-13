@@ -22,6 +22,7 @@ header {
     justify-content: space-between;
     align-items: center;
     width: 100%;
+    padding: 40px 100px;
 }
 
 header .logo {
@@ -41,4 +42,15 @@ header .menu {
     justify-content: center;
     align-items: center;
     gap: 70px;
+}
+
+.menu li {
+    list-style: none;
+}
+
+.menu li a {
+    color: var(--branco);
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: 700;
 }
