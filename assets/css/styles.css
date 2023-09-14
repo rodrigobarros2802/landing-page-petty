@@ -58,3 +58,12 @@ header .menu {
 .menu li a img {
     width: 18px;
 }
+
+header .contact {
+    text-decoration: none;
+    color: var(--branco);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
