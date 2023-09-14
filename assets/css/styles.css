@@ -67,3 +67,14 @@ header .contact {
     align-items: center;
     gap: 10px;
 }
+
+.container {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    left: 0;
+    padding: 0 100px;
+    min-height: 100vh;
+    max-width: 900px;
+}
