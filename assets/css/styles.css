@@ -79,4 +79,11 @@ header .contact {
     max-width: 900px;
 }
 
-background: linear-gradient(101deg, #FD7452 18.7%, #FF4265 102.73%);
+.container-content .welcome {
+    background: linear-gradient(101deg, #FD7452 18.7%, #FF4265 102.73%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 20px;
+    font-weight: 800;
+}
