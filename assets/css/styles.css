@@ -93,4 +93,6 @@ header .contact {
 }
 
 
-.container-content
+.container-content p {
+    color: var(--branco);
+}
