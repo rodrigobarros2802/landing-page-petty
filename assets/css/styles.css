@@ -113,4 +113,14 @@ header .contact {
     background: linear-gradient(101deg, #FD7452 18.7%, #FF4265 102.73%);
     padding: 15px 25px;
     border-radius: 30px;
+    font-weight: 700;
+    
+}
+
+.container-content .services img {
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    margin-left: 10px;
 }
