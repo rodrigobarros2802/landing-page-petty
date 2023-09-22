@@ -124,3 +124,8 @@ header .contact {
     flex-direction: row;
     margin-left: 10px;
 }
+
+.container-content .schedule {
+    color: var(--branco);
+    margin-left: 10px;
+}
