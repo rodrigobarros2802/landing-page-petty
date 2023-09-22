@@ -107,4 +107,8 @@ header .contact {
 .container-content .services {
     text-decoration: none;
     color: var(--branco);
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(101deg, #FD7452 18.7%, #FF4265 102.73%);
 }
