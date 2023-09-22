@@ -104,3 +104,7 @@ header .contact {
     margin: 20px 0;
 }
 
+.container-content .services {
+    text-decoration: none;
+    color: var(--branco);
+}
