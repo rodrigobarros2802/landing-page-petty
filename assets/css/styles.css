@@ -94,6 +94,11 @@ header .contact {
     font-weight: 300;
 }
 
+.container-content h1 span {
+    font-weight: 900;
+    
+}
+
 
 .container-content p {
     color: var(--branco);
