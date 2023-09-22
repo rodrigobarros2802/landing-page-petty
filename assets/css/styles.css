@@ -90,6 +90,8 @@ header .contact {
 
 .container-content h1 {
     color: var(--branco);
+    font-size: 3em;
+    font-weight: 300;
 }
 
 
