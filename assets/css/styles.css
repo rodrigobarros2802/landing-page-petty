@@ -75,7 +75,7 @@ header .contact {
     align-items: center;
     left: 0;
     padding: 0 100px;
-    min-height: 100vh;
+    max-height: 100%;
     max-width: 900px;
 }
 
