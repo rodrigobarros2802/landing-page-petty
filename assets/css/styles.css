@@ -73,10 +73,10 @@ header .contact {
     display: flex;
     justify-content: center;
     align-items: center;
-    left: 0;
     padding: 0 100px;
     max-height: 100%;
     max-width: 900px;
+    margin: 200px 0;
 }
 
 .container-content .welcome {
