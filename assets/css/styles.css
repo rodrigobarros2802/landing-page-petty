@@ -129,3 +129,12 @@ header .contact {
     color: var(--branco);
     margin-left: 10px;
 }
+
+.container .client-content {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100px 0;
+    gap: 20px;
+}
